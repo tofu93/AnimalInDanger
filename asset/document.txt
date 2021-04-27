@@ -1,0 +1,41 @@
+ --------------------------------------------------------------------------------------------------------------------------
+ |                                                                                                                        |
+ |  GOAL                                                                                                                  |
+ |  I want to create a web site were we can see a little liste of animals in dangers and these animals can also disepear. |
+ |                                                                                                                        |
+ --------------------------------------------------------------------------------------------------------------------------
+
+ les Animaux terrestres:
+
+
+-panda roux
+-l'ours polaire
+-le tigre
+-l'orang outant
+-le gavial de gange
+
+
+les animaux marin:
+
+
+-la baleine bleu
+-l'hippocampe
+-le poisson lune
+-le raie manta
+-le requin baleine
+
+
+les animaux aeriens
+
+
+-le kakapo
+-le harfang des neiges
+-le marcareaux moine
+-le bec en sabot du nil
+-l'aigle impérial
+
+
+
+info :
+font-family: 'Playfair Display', serif;
+font-family: 'Roboto', sans-serif
